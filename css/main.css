@@ -1,0 +1,62 @@
+body{
+    font : normal normal normal 12px/1.5 Arial, Helvetica, sans-serif;
+    width : 100vw;
+    height : 100vh;
+    max-width : 1200px;
+}
+.structural{
+    margin : 10px;
+    padding : 10px;
+}
+header{
+    background-color : hsl(189, 79%, 59%);
+}
+h1{
+    font-size: 3em;
+    color : blueviolet;
+}
+h2{
+    font-size : 2em;
+    color : pink;
+}
+main{
+    height : 70vh;
+}
+section{
+    clear : both;
+}
+figure{
+    background-color : chocolate;
+    height : 60vh;
+    width : 45vh;
+    padding : 10px;
+}
+.caption{
+    font-weight : 200;
+    font-size : large;
+    color : darkblue;
+    padding : 5px;
+}
+figure{
+    border : 80vh;
+    border-width : 90vw;
+}
+.img1{
+    float : left;
+}
+.img2{
+    float : right;
+}
+a:link{
+    color : red;
+}
+a:hover{
+    color : orange;
+}
+ul{
+    list-style-type: circle;
+    line-height: 3em;
+}
+footer{
+    background-color : hsl(189, 79%, 59%);
+}
